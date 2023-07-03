@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Aluminium Tracking System*
 
-- 🌱 I’m currently learning *Javascript, MU SQL, PHP*
+- 🌱 I’m currently learning *Javascript, MYSQL, PHP*
 
 - Abou Me *My Name is Aashnarayan Prasad Yadav. I am Pursing Diploma in computer science from parul University.*
 
