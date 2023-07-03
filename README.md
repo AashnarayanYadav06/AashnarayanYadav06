@@ -20,7 +20,7 @@
 <a href="https://twitter.com/asshyadav6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asshyadav6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aashnarayan prasad yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashnarayan prasad yadav" height="30" width="40" /></a>
 <a href="https://fb.com/yadav aash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yadav aash" height="30" width="40" /></a>
-<a href="https://instagram.com/assh_yadav06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="assh_yadav06" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aash_yadav06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="assh_yadav06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
